@@ -1,0 +1,1 @@
+Spam filter exercise from freecodecamp course
